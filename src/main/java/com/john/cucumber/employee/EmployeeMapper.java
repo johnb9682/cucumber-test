@@ -1,11 +1,7 @@
-package com.envision.cucumbertest.employee;
+package com.john.cucumber.employee;
 
 import org.mapstruct.Mapper;
-import org.springframework.stereotype.Service;
 
-/**
- * @author john.bi
- */
 @Mapper(componentModel = "spring")
 public interface EmployeeMapper {
 

@@ -1,4 +1,4 @@
-package com.envision.cucumbertest.employee;
+package com.john.cucumber.employee;
 
 import java.net.URI;
 import org.springframework.beans.factory.annotation.Autowired;

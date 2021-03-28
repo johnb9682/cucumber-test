@@ -1,10 +1,10 @@
-package com.envision.cucumbertest.bdd.stepdefs;
+package com.john.cucumber.bdd.stepdefs;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.assertj.core.api.Assertions.fail;
 
-import com.envision.cucumbertest.employee.Employee;
-import com.envision.cucumbertest.employee.Phone;
+import com.john.cucumber.employee.Employee;
+import com.john.cucumber.employee.Phone;
 import cucumber.api.java8.En;
 import io.cucumber.datatable.DataTable;
 import io.restassured.response.Response;

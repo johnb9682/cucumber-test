@@ -1,4 +1,4 @@
-package com.envision.cucumbertest.employee;
+package com.john.cucumber.employee;
 
 import java.io.Serializable;
 import javax.persistence.Entity;

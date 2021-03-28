@@ -1,4 +1,4 @@
-package com.envision.cucumbertest.employee;
+package com.john.cucumber.employee;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
