@@ -25,9 +25,9 @@ public class EmployeeController {
         final URI uri = uriComponentsBuilder.path("/v1/employees/{id}")
                 .build(id);
 
-//    return ResponseEntity.created(uri)
-//        .build();
-        return ResponseEntity.badRequest().build();
+    return ResponseEntity.created(uri)
+        .build();
+//        return ResponseEntity.badRequest().build();
     }
 
 }
